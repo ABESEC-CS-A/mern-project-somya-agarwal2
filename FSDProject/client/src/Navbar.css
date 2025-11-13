@@ -1,0 +1,11 @@
+.navbar{
+    background-color: navajowhite;
+    color: black;
+    text-align:center;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+
+}
